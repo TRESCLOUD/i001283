@@ -72,3 +72,8 @@
 	path = TRESCLOUD/website
 	url = git@github.com:TRESCLOUD/website.git
 	branch = 16.0
+
+[submodule "TRESCLOUD/odoo-clientes-especificos/biocentricsol"]
+	path = TRESCLOUD/odoo-clientes-especificos/biocentricsol
+	url = git@github.com:TRESCLOUD/odoo-clientes-especificos.git
+	branch = 16.0
