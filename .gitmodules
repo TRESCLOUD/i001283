@@ -77,3 +77,8 @@
 	path = TRESCLOUD/odoo-clientes-especificos/biocentricsol
 	url = git@github.com:TRESCLOUD/odoo-clientes-especificos.git
 	branch = 16.0
+
+[submodule "TRESCLOUD/ecuadorian-localization16"]
+	path = TRESCLOUD/ecuadorian-localization16
+	url = git@github.com:TRESCLOUD/ecuadorian-localization16.git
+	branch = 16.0
